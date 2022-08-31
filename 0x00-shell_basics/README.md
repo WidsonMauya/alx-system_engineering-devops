@@ -1,0 +1,2 @@
+#1bin/bash
+pwd
