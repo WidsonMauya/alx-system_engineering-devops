@@ -1,2 +1,2 @@
-#1bin/bash
-pwd
+#!bash/bin
+echo pwd
