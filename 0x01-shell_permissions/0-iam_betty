@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo usseradd betty
+su betty
